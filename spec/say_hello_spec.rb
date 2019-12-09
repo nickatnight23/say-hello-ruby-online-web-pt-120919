@@ -12,3 +12,7 @@ describe "say_hello" do
     say_hello()
   end
 end
+
+def say_hello (Gabriela)
+  puts "Hello,"#{Gabriela}
+end
